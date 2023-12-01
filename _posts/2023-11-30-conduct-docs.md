@@ -5,7 +5,7 @@ title: IETF Codes of conduct
 
 This is an attempt to corral various IETF policy statements
 and documents on conduct into one location, to help
-get a handle on what's out there.
+get a handle on what's out there.  There are some policies under discussion as of this writing (for example, mailing list moderation and an IRTF Code of Conduct), and not everything included here is normative.
 
 - [BCP 54/RFC 7154](https://www.rfc-editor.org/rfc/rfc7154.html) is the 
 IETF consensus document providing guidelines for IETF
@@ -23,6 +23,10 @@ both RFC 7154 and RFC 7776, both of which are more recent.
 - [IRTF Code of Conduct](https://www.ietf.org/archive/id/draft-perkins-irtf-code-of-conduct-00.html).  This document
 is currently in draft form and has not yet been published,
 but is here for completeness.  
+
+- [IETF Community Moderation](https://www.ietf.org/id/draft-ecahc-moderation-00.html) is a first crack at a
+revised mailing list moderation policy/process, and is
+quite early in its discussion.
 
 - [IESG Statement on Inclusive Language](https://www.ietf.org/about/groups/iesg/statements/on-inclusive-language/)
 
@@ -48,10 +52,3 @@ well as some expectations of IETF participants.
 LLC contractors and employees.  It does _not_ cover most IETF
 participants (participants, chairs, IESG and IAB members, etc) but is included here for completeness.
 
-
-
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool and one we encourage you to use here with Lanyon.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
+ <title>Melinda Shore</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-11-30T17:32:49-09:00</updated>
+ <updated>2023-11-30T20:18:27-09:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Melinda Shore</name>
+   <email>melinda.shore@nomountain.net</email>
  </author>
 
  
@@ -19,7 +19,7 @@
    <id>http://localhost:4000/2023/11/30/conduct-docs</id>
    <content type="html">&lt;p&gt;This is an attempt to corral various IETF policy statements
 and documents on conduct into one location, to help
-get a handle on what’s out there.&lt;/p&gt;
+get a handle on what’s out there.  There are some policies under discussion as of this writing (for example, mailing list moderation and an IRTF Code of Conduct), and not everything included here is normative.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -43,6 +43,11 @@ both RFC 7154 and RFC 7776, both of which are more recent.&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.ietf.org/archive/id/draft-perkins-irtf-code-of-conduct-00.html&quot;&gt;IRTF Code of Conduct&lt;/a&gt;.  This document
 is currently in draft form and has not yet been published,
 but is here for completeness.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.ietf.org/id/draft-ecahc-moderation-00.html&quot;&gt;IETF Community Moderation&lt;/a&gt; is a first crack at a
+revised mailing list moderation policy/process, and is
+quite early in its discussion.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.ietf.org/about/groups/iesg/statements/on-inclusive-language/&quot;&gt;IESG Statement on Inclusive Language&lt;/a&gt;&lt;/p&gt;
@@ -75,16 +80,9 @@ well as some expectations of IETF participants.&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.ietf.org/about/administration/policies-procedures/code-of-conduct/&quot;&gt;IETF LLC Code of Conduct&lt;/a&gt; covers
 LLC contractors and employees.  It does &lt;em&gt;not&lt;/em&gt; cover most IETF
 participants (participants, chairs, IESG and IAB members, etc) but is included here for completeness.&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-    &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
