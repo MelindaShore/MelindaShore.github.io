@@ -4,7 +4,7 @@
  <title>Melinda Shore</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-11-30T20:18:27-09:00</updated>
+ <updated>2023-11-30T21:10:31-09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Melinda Shore</name>
@@ -31,7 +31,7 @@ participant conduct.&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;https://www7.ietf.org/about/groups/iesg/statements/anti-harassment-policy/&quot;&gt;IETF Anti-Harassment Policy&lt;/a&gt;.  This is
 an IESG statement putting forth an anti-harassment policy.
 It may be worth checking to verify that it’s consistent with
-both RFC 7154 and RFC 7776, both of which are more recent.&lt;/p&gt;
+RFCs 7154 and 7776, both of which are more recent.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.ietf.org/about/note-well/&quot;&gt;IETF Note Well&lt;/a&gt;&lt;/p&gt;

@@ -14,7 +14,7 @@ participant conduct.
 - [IETF Anti-Harassment Policy](https://www7.ietf.org/about/groups/iesg/statements/anti-harassment-policy/).  This is
 an IESG statement putting forth an anti-harassment policy.
 It may be worth checking to verify that it's consistent with
-both RFC 7154 and RFC 7776, both of which are more recent.
+RFCs 7154 and 7776, both of which are more recent.
 
 - [IETF Note Well](https://www.ietf.org/about/note-well/)
 
