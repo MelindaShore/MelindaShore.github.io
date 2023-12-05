@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IETF Codes of conduct
+title: A Compendium of IETF Codes of conduct
 ---
 
 This is an attempt to corral various IETF policy statements
