@@ -52,3 +52,12 @@ well as some expectations of IETF participants.
 LLC contractors and employees.  It does _not_ cover most IETF
 participants (participants, chairs, IESG and IAB members, etc) but is included here for completeness.
 
+- [IETF LLC Whistleblower Policy](https://www.ietf.org/about/administration/policies-procedures/whistleblower/) 
+defines policies for the IETF LLC's responses to and
+management of whistleblower reports.  These are,
+strictly speaking, out-of-scope for the Ombudsteam but
+it's quite possible that someone may make a whistleblower
+report to us, in which case we should be aware that the
+LLC has a whistleblower policy and where reports should be
+made.
+

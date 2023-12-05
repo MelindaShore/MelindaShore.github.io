@@ -4,7 +4,7 @@
  <title>Melinda Shore</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-11-30T21:10:31-09:00</updated>
+ <updated>2023-12-04T17:06:31-09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Melinda Shore</name>
@@ -80,6 +80,16 @@ well as some expectations of IETF participants.&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.ietf.org/about/administration/policies-procedures/code-of-conduct/&quot;&gt;IETF LLC Code of Conduct&lt;/a&gt; covers
 LLC contractors and employees.  It does &lt;em&gt;not&lt;/em&gt; cover most IETF
 participants (participants, chairs, IESG and IAB members, etc) but is included here for completeness.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.ietf.org/about/administration/policies-procedures/whistleblower/&quot;&gt;IETF LLC Whistleblower Policy&lt;/a&gt; 
+defines policies for the IETF LLC’s responses to and
+management of whistleblower reports.  These are,
+strictly speaking, out-of-scope for the Ombudsteam but
+it’s quite possible that someone may make a whistleblower
+report to us, in which case we should be aware that the
+LLC has a whistleblower policy and where reports should be
+made.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
