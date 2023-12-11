@@ -43,6 +43,10 @@ must be respected.
 
 - [IESG Statement on Disruptive Posting](https://www.ietf.org/about/groups/iesg/statements/disruptive-posting/)
 
+- [Updates to RFC 2418 Regarding the Management of Mailing lists](https://datatracker.ietf.org/doc/rfc3934/) authorizes working 
+group chairs to temporarily suspend working group mailing list
+posting privileges.
+
 - [An IETF With Much Diversity and Professional Conduct](https://www.rfc-editor.org/rfc/rfc7704).  This document is
 not a BCP, nor is it normative (was it published as an
 individual contribution?) but provides some background, as
